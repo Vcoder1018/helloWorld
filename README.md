@@ -1,2 +1,3 @@
 # helloWorld
 My First repository
+Hey I just started using git-hub, so I'm taking a short how to use guide, and that's saying me to commit some changes on any of the file of this repository...
